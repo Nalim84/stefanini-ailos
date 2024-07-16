@@ -1,0 +1,17 @@
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.csproj.Up2Date
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+C:\Users\ALEX\Downloads\enunciado_original\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 8\Questao2\obj\Debug\net6.0\ref\Questao2.dll
